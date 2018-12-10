@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e57e356-28b0-4631-aeb2-06d5178d0f76" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1309647998">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.72" value="1" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="25" />
+          <entry key="java" value="7155" />
+          <entry key="xml" value="8424" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7155" />
+          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="XML" value="8424" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="SK_LS_PUBLISH_HOURAQI_AQI_PM25_CONS_" value="1" />
+          <entry key="class" value="4" />
+          <entry key="csv" value="1" />
+          <entry key="java" value="183" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="183" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="trial" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>queue</find>
+      <find>distMatrix</find>
+      <find>m_clusters</find>
+      <find>m_nNumClusters</find>
+      <find>Node</find>
+      <find>merge</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/trial/App.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cuit/timeSeries/split/ConstantLenSequenceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/trial/HClusterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/weka/core/KHCluster.java" />
+        <option value="$PROJECT_DIR$/src/test/java/weka/core/KmeansAndHClusterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/weka/core/KmeansAndHCluster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cuit/service/SelectDataServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cuit/HK/train/HCluster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/trial/HCluster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/trial/HCluster2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/weka/core/HierarchicalClustererTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/weka/core/HCluster2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cuit/timeSeries/split/EnhanceDeque.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cuit/timeSeries/split/ConstantLenSequence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cuit/timeSeries/split/CreateInstances.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cuit/timeSeries/split/Parameter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cuit/timeSeries/split/VaryingLenSequence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/weka/core/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/weka/core/FastDTWDistance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/util/EuclideanDistance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/util/DTWMetrics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/util/DTWDistance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/util/DistanceFunction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/split/ConstantLenSequence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/split/EnhanceDeque.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/split/VaryingLenSequence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/util/BinaryDistance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/util/ManhattanDistance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/weka/core/HClusterOnly.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cuit/dao/DB2connTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cuit/dao/DB2conn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/weka/core/HCluster.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cuit/service/SelectDataServletTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trial" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trial" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trial" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="weka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="trial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trial" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="weka" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544428377223" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="G:/gitRepository/SAX" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.cuit.dao" />
+      <recent name="com.cuit.service" />
+      <recent name="weka.core" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+      <recent name="weka.core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ideaWorkSpace\trial\src\main\java\trial" />
+      <recent name="F:\ideaWorkSpace\trial\src\test\java" />
+      <recent name="F:\ideaWorkSpace\trial\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="weka.core" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SelectDataServletTest.doPost">
+    <configuration name="DB2connTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cuit.dao.DB2connTest" />
+      <module name="trial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cuit.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DB2connTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cuit.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cuit.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.cuit.dao.DB2connTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DB2connTest.getData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cuit.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cuit.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.cuit.dao.DB2connTest" />
+      <option name="METHOD_NAME" value="getData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DB2connTest.getDistinctValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cuit.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cuit.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.cuit.dao.DB2connTest" />
+      <option name="METHOD_NAME" value="getDistinctValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectDataServletTest.doPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cuit.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cuit.service" />
+      <option name="MAIN_CLASS_NAME" value="com.cuit.service.SelectDataServletTest" />
+      <option name="METHOD_NAME" value="doPost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DB2connTest" />
+      <item itemvalue="JUnit.DB2connTest.getDistinctValue" />
+      <item itemvalue="JUnit.DB2connTest.getData" />
+      <item itemvalue="Application.DB2connTest" />
+      <item itemvalue="JUnit.SelectDataServletTest.doPost" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SelectDataServletTest.doPost" />
+        <item itemvalue="JUnit.DB2connTest.getData" />
+        <item itemvalue="JUnit.DB2connTest" />
+        <item itemvalue="Application.DB2connTest" />
+        <item itemvalue="JUnit.DB2connTest.getDistinctValue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e57e356-28b0-4631-aeb2-06d5178d0f76" name="Default Changelist" comment="" />
+      <created>1543996351067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543996351067</updated>
+      <workItem from="1543996354867" duration="20711000" />
+      <workItem from="1544092312849" duration="20560000" />
+      <workItem from="1544115003207" duration="495000" />
+      <workItem from="1544141572256" duration="29279000" />
+      <workItem from="1544187386566" duration="31307000" />
+      <workItem from="1544316090773" duration="3612000" />
+      <workItem from="1544358489640" duration="2974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DB2connTest - 2018.12.08 at 20h 44m 36s.xml">
+      <configuration name="DB2connTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DB2connTest_getData - 2018.12.08 at 20h 46m 34s.xml">
+      <configuration name="DB2connTest.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DB2connTest_getData - 2018.12.08 at 20h 47m 56s.xml">
+      <configuration name="DB2connTest.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DB2connTest_getColName - 2018.12.08 at 20h 48m 33s.xml">
+      <configuration name="DB2connTest.getColName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DB2connTest_getDistinctValue - 2018.12.08 at 20h 49m 15s.xml">
+      <configuration name="DB2connTest.getDistinctValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DB2connTest_getDistinctValue - 2018.12.08 at 20h 49m 35s.xml">
+      <configuration name="DB2connTest.getDistinctValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DB2connTest - 2018.12.08 at 20h 49m 43s.xml">
+      <configuration name="DB2connTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DB2connTest - 2018.12.08 at 21h 04m 40s.xml">
+      <configuration name="DB2connTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DB2connTest_getData - 2018.12.08 at 21h 05m 22s.xml">
+      <configuration name="DB2connTest.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SelectDataServletTest_doPost - 2018.12.10 at 08h 48m 41s.xml">
+      <configuration name="SelectDataServletTest.doPost" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="108938000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.813314" visible="true" weight="0.20042644" />
+      <window_info id="Structure" order="1" sideWeight="0.18668596" side_tool="true" visible="true" weight="0.20042644" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.33934426" side_tool="true" weight="0.17776097" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.36876357" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3362256" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.2505423" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.4370933" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cuit/service/SelectDataServletTest.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/weka/core/HCluster.java</url>
+          <line>144</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cuit/HK/train/Kmeans.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dtw/WindowMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dtw/WarpPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dtw/TimeWarpInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dtw/SearchWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dtw/DTW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cuit/HK/train/HCluster.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/trial/HCluster2.java" />
+    <entry file="file://$PROJECT_DIR$/YWAIR.SK_LS_PUBLISH_HOURAQI_AQI_PM25_CONS_" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cuit/timeSeries/metrics/Metrics.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/core/KmeansAndHClusterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/core/HierarchicalClustererTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/timeseries/TimeSeriesPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cuit/timeSeries/preprocess/TemporaryFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cuit/timeSeries/split/SubSequence.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cuit/timeSeries/preprocess/FileData.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cuit/dao/TreeDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cuit/common/Util.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/cuit/timeSeries/split/ConstantLenSequenceTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cuit/timeSeries/preprocess/TempFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cuit/dao/FrontBackDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/split/CreateInstances.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mySoftInstallDir/jdk8/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="652" selection-start-line="652" selection-end-line="652" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cuit/timeSeries/metrics/EuclideanMetrics.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cuit/service/SelectDataServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dtw/FastDTW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/util/DistanceFunctionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/util/DistanceFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="84" selection-start-line="13" selection-start-column="84" selection-end-line="13" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/split/ConstantLenSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2781">
+          <caret line="115" column="10" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
+          <folding>
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/split/EnhanceDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2476">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/split/Parameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/split/VaryingLenSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/util/EuclideanDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="38" column="80" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/util/DTWDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/util/BinaryDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="35" column="80" selection-start-line="35" selection-start-column="80" selection-end-line="35" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/util/ManhattanDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="33" column="80" selection-start-line="33" selection-start-column="80" selection-end-line="33" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/ibm/db2/jcc/db2jcc/1.4.2/db2jcc-1.4.2.jar!/com/ibm/db2/jcc/am/cn.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.2/junit-platform-commons-1.3.2.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="249" column="9" lean-forward="true" selection-start-line="249" selection-start-column="9" selection-end-line="249" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/ibm/db2/jcc/db2jcc/1.4.2/db2jcc-1.4.2.jar!/com/ibm/db2/jcc/am/um.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="539" selection-start-line="539" selection-end-line="539" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/mySoftInstallDir/jdk8/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="2131" column="19" selection-start-line="2131" selection-start-column="19" selection-end-line="2131" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cuit/dao/DB2connTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/weka/core/FastDTWDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cuit/dao/DB2conn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="81" column="25" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/weka/core/HCluster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/weka/core/HClusterOnly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="751" column="30" selection-start-line="751" selection-start-column="30" selection-end-line="751" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/weka/core/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1879#1880#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/nz/ac/waikato/cms/weka/weka-stable/3.8.3/weka-stable-3.8.3-sources.jar!/weka/core/NormalizableDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="313" selection-start-line="313" selection-end-line="313" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cuit/service/SelectDataServletTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="41" column="37" lean-forward="true" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/trial/HClusterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1053" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/nz/ac/waikato/cms/weka/weka-stable/3.8.3/weka-stable-3.8.3-sources.jar!/weka/clusterers/SimpleKMeans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="1638" selection-start-line="1638" selection-end-line="1638" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
